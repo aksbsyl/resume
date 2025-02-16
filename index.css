@@ -222,7 +222,7 @@ h1 {
     content: '';
     position: absolute;
     top: 0.1cm;
-    bottom: -0.02cm; /* change this after border removal */
+    bottom: -0.01cm; /* change this after border removal */
     left: 0.05cm;
   }
   
