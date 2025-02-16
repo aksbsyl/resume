@@ -122,7 +122,7 @@ h1 {
     background: white;
     display: block;
     margin: 0 auto;
-    margin-bottom: 0.2cm;
+    margin-bottom: 0.01cm;
   }
   
   page[size="A4"] {  
@@ -212,7 +212,7 @@ h1 {
   .workExperience>ul>li {
     position: relative;
     margin: 0;
-    padding-bottom: 0.1cm;
+    padding-bottom: 0.01cm;
     padding-left: 0.3cm;
   }
   
@@ -222,7 +222,7 @@ h1 {
     content: '';
     position: absolute;
     top: 0.1cm;
-    bottom: -0.2cm; /* change this after border removal */
+    bottom: -0.02cm; /* change this after border removal */
     left: 0.05cm;
   }
   
