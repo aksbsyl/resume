@@ -212,8 +212,8 @@ h1 {
   .workExperience>ul>li {
     position: relative;
     margin: 0;
-    padding-bottom: 0.01cm;
-    padding-left: 0.3cm;
+    padding-bottom: 0.2cm;
+    padding-left: 0.33cm;
   }
   
   .workExperience>ul>li:before {
